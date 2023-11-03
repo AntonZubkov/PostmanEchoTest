@@ -14,4 +14,4 @@
 
 
 
-pveyor.com/api/projects/status/9simx0ab0jbcali1?svg=true)](https://ci.appveyor.com/project/AntonZubkov/rest)
+[![Build status](https://ci.appveyor.com/api/projects/status/kjx4gydjtua8kvi0?svg=true)](https://ci.appveyor.com/project/AntonZubkov/postmanechotest)
